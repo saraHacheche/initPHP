@@ -1,0 +1,13 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+}
+
+input{
+    display: block;
+    margin: 5px;
+}
+
+main{
+    padding: 10px;
+}
